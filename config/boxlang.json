@@ -1,0 +1,13 @@
+{
+  "modules": {
+    "bxai": {
+      "settings": {
+        "provider": "ollama",
+        "chatURL": "http://localhost:11434",
+        "defaultParams": { "model": "llama3.2" },
+        "timeout": 120,
+        "logRequest": false
+      }
+    }
+  }
+}

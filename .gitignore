@@ -1,0 +1,4 @@
+.env
+boxlang_modules/
+logs/
+*.log
